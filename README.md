@@ -18,16 +18,10 @@ _3rd Place Winner of National High School Quiz Competition - Secondary Category 
 
 ---
 
-## ICT EXPO - 2015
+## [ICT EXPO - 2015](/SCAR/)
 
 ![Smartphone Controlled & Autonomous Robot](<ICT EXPO 2015 - SCAR.jpg>)
 _Presented Smartphone Controlled and Autonomous Robot at the ICT Expo (2015) as the only school student selected._
-
-#### Booklet
-
-|              Front & back               |              Middle               |
-| :-------------------------------------: | :-------------------------------: |
-| ![Front & Back](<SCAR/Front Cover.png>) | ![Inside](<SCAR/Inner Pages.png>) |
 
 ---
 
